@@ -147,7 +147,7 @@ Shipments with Total Lead Days ≥ 15 are flagged as Critical. The threshold was
 ---
 ## Dashboard Preview
 
-![Apapa Port Dashboard](powerbi/dashboard_preview.png)
+![Apapa Port Dashboard](assets/dashboard_preview.png)
 
 ---
 ## How to Replicate
